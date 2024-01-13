@@ -13,7 +13,7 @@ const About = () => {
       <div className='about__conatiner'>
         <div className='about_me'>
         <div className='about_me-image'>
-          <img src={GOLU} alt='About Image'/>
+          <img src={GOLU} alt='About'/>
         </div>
         </div>
         <div className='about_conatiner'>
@@ -21,30 +21,24 @@ const About = () => {
             <article className='about-card'>
               <BsAwardFill className="about_icons"/>
               <h5> Experience</h5>
-              <small> 1+ Years Working</small>
+              <small> 6+ Months Working as a Developer</small>
             </article>
 
             <article className='about-card'>
               <FiUsers className="about_icons"/>
               <h5> Clients</h5>
-              <small> 100+ Clients</small>
+              <small> 10+ clients </small>
             </article>
 
             <article className='about-card'>
               <VscFolderLibrary className="about_icons"/>
               <h5> Projects</h5>
-              <small> 10 + completed projects</small>
+              <small> 20 + completed projects</small>
             </article>
           </div>
 
          </div>
-          <p> Lorem ipsum dolor sit amet, 
-            consectetur adipisicing elit. 
-            gdsghgesuygejwguygwrughuwgu
-            werwhguyhfruirhw
-            rfjehrfiuerhjitehrklfrkjtge
-            efrhjietwlrhigtuherwi;gdefiuygewiyfgqeiuyfgqwwe
-            farwehfjhbvfdsuygrbukbefkubfeukjwh
+          <p> Strong in design and integration with intuitive problem-solving skills. Proficient in JAVA, CSS, PYTHON, JAVASCRIPT, and HTML, React js. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
           </p>  
 
         
@@ -57,3 +51,4 @@ const About = () => {
 }
 
 export default About
+
